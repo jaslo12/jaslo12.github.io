@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up now!
+title: Today!
 Just testing blogs
 ---
 
