@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am just trying to play around with static websites using Jekyll
 
 ### More Information
 
